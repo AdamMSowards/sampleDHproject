@@ -22,37 +22,6 @@ I *suspect* I am correct but am uncommitted to the idea of history being unendin
 
 That just gets us started.
 
-Leave an empty line between headings and paragraphs.
-
-Font can be *Italic* or **Bold**.
-
-Citing your work is important! [^1]
-
-Title sections of your essay with headings, by adding a pound sign (`#`) in front of the title:
-
-# Heading One
-
-## Heading Two
-
-### Heading Three, etc.
-
-Hyperlinks look like this [GitHub Help](https://help.github.com/).
-
-A bullet list is created using `*`, `+`, or `-`, like:
-
-- dog
-- cat
-- muffin
-
-A numbered list is created using a number + `.`, like:
-
-1. one
-2. two
-6. three
-2. four
-
-A horizontal line break can be useful for separating content:
-
 ----
 
 Include an image:
