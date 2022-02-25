@@ -10,8 +10,9 @@ permalink: /essay-01.html
 
 ## Introduction
 
-Here's some sample text, written in Markdown.
-In Markdown, any text with no empty lines between will become a paragraph.
+History has a beginning, of course. But does it end? If so, what does that look like? 
+
+These are questions perhaps better suited to a philosopher than to a historian. Yet, historians might benefit from pondering such ponderous thoughts. 
 
 Leave an empty line between headings and paragraphs.
 
