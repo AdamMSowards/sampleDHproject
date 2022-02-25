@@ -14,6 +14,14 @@ History has a beginning, of course. But does it end? If so, what does that look 
 
 These are questions perhaps better suited to a philosopher than to a historian. Yet, historians might benefit from pondering such ponderous thoughts. 
 
+I *suspect* I am correct but am uncommitted to the idea of history being unending, rather **unendable**. I hope it is clear that I'm not discussing ["The End of History"](https://www.jstor.org/stable/24027184) nonsense promulgated by Francis Fukuyama concerning the Cold War's end. Today, more pressing concerns reign over geopolitics of a bipolar world.
+
+1. Anthropogenic Climate Change
+2. Rising Global Income Inequality
+3. Inequality *within* Nations, economic and political
+
+That just gets us started.
+
 Leave an empty line between headings and paragraphs.
 
 Font can be *Italic* or **Bold**.
