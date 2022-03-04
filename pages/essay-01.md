@@ -13,6 +13,8 @@ This topic, which I labled "government power," rises during a period of conserva
 
 ---
 
+[GitHub Help](https://help.github.com/){:target="_blank" rel="noopener"}
+
 ## Introduction
 
 History has a beginning, of course. But does it end? If so, what does that look like? 
