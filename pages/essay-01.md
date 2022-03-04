@@ -4,7 +4,7 @@ layout: about
 permalink: /essay-01.html
 ---
 
-{% include feature/nav-menu.html sections="Introduction;Conclusion;Notes" %}
+{% include feature/nav-menu.html sections="Introduction;My First Subheading;Conclusion;Notes" %}
 
 # History Will End
 
@@ -28,6 +28,8 @@ I *suspect* I am correct but am uncommitted to the idea of history being unendin
 3. Inequality *within* Nations, economic and political
 
 That just gets us started.
+
+### My First Subheading
 
 ----
 
