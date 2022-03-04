@@ -8,6 +8,8 @@ permalink: /essay-01.html
 
 # History Will End
 
+{% include feature/image.html filename="gop-platform-1900-45-wordcloud.png" alt="image of a wordcloud generated from Republican Party Platform texts from the years 1900-1944" caption="Republican Party Platforms, 1900-44" width="50" link="https://voyant-tools.org/?corpus=f440c650652b0396898340d33cefb168" %}
+
 {% include feature/line-chart.html data="party-platforms-1900-1944-republican" topic="government power" %}
 This topic, which I labled "government power," rises during a period of conservative Republican rule. Conservatism in the 1920s eschewed power and government growth.[^1] This juxtaposition, then, is counterintuitive. Either I labeled it wrong (a likely occurrence), or there is something about our traditional understanding of Republican governance that demands more attention. 
 
