@@ -11,6 +11,8 @@ permalink: /essay-01.html
 {% include feature/line-chart.html data="party-platforms-1900-1944-republican" topic="government power" %}
 This topic, which I labled "government power," rises during a period of conservative Republican rule. Conservatism in the 1920s eschewed power and government growth.[^1] This juxtaposition, then, is counterintuitive. Either I labeled it wrong (a likely occurrence), or there is something about our traditional understanding of Republican governance that demands more attention. 
 
+---
+
 ## Introduction
 
 History has a beginning, of course. But does it end? If so, what does that look like? 
